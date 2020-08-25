@@ -1,0 +1,3 @@
+export const DETAILS_LOADING = 'DETAILS_LOADING';
+export const DETAILS_FAILED = 'DETAILS_FAILED';
+export const ADD_DETAILS = 'ADD_DETAILS';
